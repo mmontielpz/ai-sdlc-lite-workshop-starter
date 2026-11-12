@@ -1,4 +1,4 @@
-# Acceptance criteria
+# Optional Python exercise: acceptance criteria
 
 Run these yourself, not only the agent:
 

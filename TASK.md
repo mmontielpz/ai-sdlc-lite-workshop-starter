@@ -1,4 +1,4 @@
-# Engineering challenge: category summary
+# Optional Python exercise: category summary
 
 `expenses.py` prints a total. Add a `--by-category` option and the function behind it.
 
