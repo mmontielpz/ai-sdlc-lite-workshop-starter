@@ -1,0 +1,12 @@
+date,category,amount,note
+2026-01-03,food,12.50,lunch
+2026-01-04,transport,3.20,bus
+2026-01-05,food,8.75,coffee
+2026-01-06,rent,900.00,january
+2026-01-07,transport,15.00,taxi
+2026-01-08,food,22.10,dinner
+2026-01-09,fun,30.00,cinema
+2026-01-10,food,abc,bad amount
+2026-01-11,fun,12.00,games
+2026-01-12,,5.00,missing category
+2026-01-13,transport,2.80,bus
